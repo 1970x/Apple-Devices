@@ -3,6 +3,7 @@
 ## wiki and instructions：
 
 - iphone：https://everymac.com/systems/apple/iphone/index-iphone-specs.html
+- ipod: https://everymac.com/systems/apple/ipod/index-ipod-specs.html
 - Apple Watch：https://everymac.com/systems/apple/apple-watch/index-apple-watch-specs.html
 - Models from wiki：https://theapplewiki.com/wiki/Models
 
