@@ -4,7 +4,10 @@
 
 - iphone：https://everymac.com/systems/apple/iphone/index-iphone-specs.html
 - ipod: https://everymac.com/systems/apple/ipod/index-ipod-specs.html
+- ipad: https://everymac.com/systems/apple/ipad/index-ipad-specs.html
 - Apple Watch：https://everymac.com/systems/apple/apple-watch/index-apple-watch-specs.html
+- TV:   https://everymac.com/systems/apple/apple-tv/index-appletv.html
+- homePod: https://everymac.com/systems/apple/homepod/index-homepod-specs.html
 - Models from wiki：https://theapplewiki.com/wiki/Models
 
 ## From Apple support：
